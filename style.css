@@ -1,20 +1,23 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #6a3f1cd7;
-
+    background-image: url(https://w7.pngwing.com/pngs/525/261/png-transparent-wood-flooring-texture-mapping-painting-wood-texture-texture-3d-computer-graphics-brown.png);
 }
 
 h1 {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
     background-color: burlywood;
     border-style: ridge;
     border-color: goldenrod;
-    background-image: url(https://w7.pngwing.com/pngs/525/261/png-transparent-wood-flooring-texture-mapping-painting-wood-texture-texture-3d-computer-graphics-brown.png);
+    width: 75%;
 }
 
 ul {
     list-style-type: none;
     text-align: center;
+    margin-top: 10%;
 }
 
 button {
@@ -22,4 +25,6 @@ button {
     border-color: black;
     color: gold;
     font-size: 25px;
+    margin-bottom: 100px;
+    width: 25%;
 }
