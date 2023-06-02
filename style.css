@@ -6,11 +6,15 @@ body {
 
 h1 {
     text-align: center;
+    background-color: burlywood;
+    border-style: ridge;
+    border-color: goldenrod;
+    background-image: url(https://w7.pngwing.com/pngs/525/261/png-transparent-wood-flooring-texture-mapping-painting-wood-texture-texture-3d-computer-graphics-brown.png);
 }
 
-div {
+ul {
+    list-style-type: none;
     text-align: center;
-    
 }
 
 button {
