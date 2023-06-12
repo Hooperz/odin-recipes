@@ -43,7 +43,7 @@ img {
 }
 
 div {
-    white-space: pre;
+    white-space: pre-line;
     text-align: center;
     background-color: aliceblue;
     border: 4px solid black;
